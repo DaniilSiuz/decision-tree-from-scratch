@@ -29,6 +29,8 @@ Split 60 / 20 / 20 into training, validation and test.
 Stopping depth was chosen on the validation set, sweeping 1 to 7. The test set was used exactly once, after the depth was fixed and the tree retrained on training plus validation.
 
 	
+| | |
+|---|---|
 | Selected depth | **4** |
 | Held-out test accuracy | **71.6%** (229 / 320) |
 | Macro F1 | 0.714 |
